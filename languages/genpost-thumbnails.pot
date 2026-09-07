@@ -1,0 +1,390 @@
+# Copyright (C) 2026 mrghozzi
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: GenPost Thumbnails – Smart Featured Images 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/genpost-thumbnails\n"
+"POT-Creation-Date: 2026-09-07T14:10:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4\n"
+"X-Domain: genpost-thumbnails\n"
+
+#: genpost-thumbnails.php:127
+msgid "Settings"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-api.php:67
+msgid "Photorealistic (Default)"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-api.php:71
+msgid "Digital Art"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-api.php:75
+msgid "Cinematic Film"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-api.php:79
+msgid "Minimalist & Clean"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-api.php:83
+msgid "3D Render"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-api.php:87
+msgid "Anime & Manga Style"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-api.php:97
+msgid "Flux (Recommended – High Quality & Accuracy)"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-api.php:98
+msgid "Turbo (Fastest Generation)"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-api.php:204
+msgid "You must opt-in to the Pollinations.ai service before generating images."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-api.php:212
+msgid "Prompt cannot be empty."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-api.php:258
+msgid "You must opt-in to the Pollinations.ai service before testing connection."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-api.php:287
+#, php-format
+msgid "Pollinations.ai returned an unexpected HTTP status code: %d"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-api.php:296
+msgid "The service response did not return an image stream."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-media.php:44
+#, php-format
+msgid "Failed to download image from AI service: %s"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-media.php:54
+msgid "Downloaded image file is empty or missing."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-media.php:92
+msgid "The downloaded file is not a valid JPEG, PNG, or WebP image."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-media.php:116
+#, php-format
+msgid "Featured Image for %s"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-media.php:120
+msgid "AI Generated Featured Image"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:76
+msgid "GenPost Thumbnails Settings"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:77
+msgid "GenPost Thumbnails"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:165
+msgid "Generating AI Image…"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:166
+msgid "Analyzing content & creating prompt…"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:167
+msgid "Downloading and setting as Featured Image…"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:168
+msgid "Featured Image successfully updated!"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:169
+msgid "Pollinations.ai service is currently disabled. Please enable it in settings or the banner above."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:170
+msgid "Please enter a prompt or click \"Suggest from Content\" first."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:171
+msgid "An error occurred. Please check console or try again."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:172
+msgid "Generate a new image? Current preview will be replaced."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:173
+msgid "Connection successful! Test image generated."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:174
+msgid "Testing connection to Pollinations.ai…"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:191
+msgid "GenPost Thumbnails – Smart Featured Image"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:214
+msgid "Service Disabled"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:215
+msgid "Consent is required before sending requests to Pollinations.ai."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:218
+msgid "Enable Service Now"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:225
+msgid "Image Prompt Description:"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:231
+msgid "Click \"Suggest from Content\" or type custom visual prompt keywords…"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:237
+msgid "Art & Visual Style:"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:249
+msgid "Auto-extract relevant visual prompt based on title & categories"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:251
+msgid "Suggest Prompt"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:256
+msgid "Generate AI Image"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:267
+msgid "Preview Result"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:270
+msgid "AI Generated Preview"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:275
+msgid "Set as Featured Image"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:279
+msgid "Regenerate"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:316
+msgid "GenPost Thumbnails – 3rd Party Service Opt-In"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:320
+#, php-format
+msgid "To generate AI featured images, this plugin connects to <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">Pollinations.ai</a>. Only the generated visual prompt keywords and requested image dimensions are sent. No personal or site data is transmitted. Please review their <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">Terms of Service</a> and <a href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:336
+msgid "Opt-In & Enable Pollinations.ai"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:339
+msgid "Configure Settings"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:360
+msgid "GenPost Thumbnails – Smart Featured Images Settings"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:373
+msgid "1. External Service & Privacy (Guideline 6 Opt-In)"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:375
+msgid "In compliance with WordPress.org guidelines, this plugin requires explicit consent before connecting to any 3rd-party service."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:381
+msgid "Enable Pollinations.ai"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:392
+msgid "I agree to use the Pollinations.ai image generation service."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:397
+#, php-format
+msgid "Service: <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">Pollinations.ai</a> | <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">Terms of Service</a> | <a href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>. Only visual prompt text and dimensions are sent; no personal data or site visitor information is collected or sent."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:417
+msgid "2. Publishing Automation"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:419
+msgid "Automatically generate and set featured images when new content is published."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:425
+msgid "Auto-Generate on Publish"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:436
+msgid "Automatically generate and attach a featured image if a post is published without one."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:442
+msgid "Active Post Types"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:470
+msgid "3. Image Dimensions & AI Model"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:475
+msgid "Default Width (px)"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:488
+msgid "Recommended: 1200px for high-resolution Open Graph and featured images."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:493
+msgid "Default Height (px)"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:506
+msgid "Recommended: 630px (1200x630 gives optimal 1.91:1 social card ratio)."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:511
+msgid "AI Model"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:525
+msgid "Default Art Style"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:542
+msgid "4. Prompt Engineering & Quality Boosters"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:547
+msgid "Prompt Prefix (Optional)"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:556
+msgid "e.g. A high-end editorial visual of"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:558
+msgid "Prepend this text to every prompt."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:563
+msgid "Prompt Quality Suffix"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:573
+msgid "Appended to prompts to enhance detail, composition, and visual fidelity."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:578
+msgid "Negative Keywords"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:588
+msgid "Undesirable elements to discourage during image synthesis."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:594
+msgid "Save Changes"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:601
+msgid "API Connection Test"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:603
+msgid "Verify that your server can connect to Pollinations.ai and retrieve images."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:608
+msgid "Test Connection Now"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:615
+msgid "About GenPost Thumbnails"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:617
+msgid "Version: 1.0.0"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:618
+msgid "License: GPLv2 or later"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:619
+msgid "AI Engine: Pollinations.ai"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:623
+msgid "Visit Pollinations.ai"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:637
+msgid "Permission denied."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:643
+msgid "Notice dismissed."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:652
+msgid "Pollinations.ai service enabled successfully."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:664
+msgid "Permission denied for this post."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:688
+msgid "Please enable Pollinations.ai in the plugin settings before generating images."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:723
+msgid "No image URL provided to apply."
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:737
+msgid "Featured Image set successfully!"
+msgstr ""
+
+#: includes/class-genpost-thumbnails-admin.php:760
+msgid "Success! Connected to Pollinations.ai API and verified response."
+msgstr ""
