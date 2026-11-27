@@ -661,7 +661,7 @@ class Genpost_Thumbnails_Admin {
 					<div class="genpost-thumb-card">
 						<h3><?php esc_html_e( 'About GenPost Thumbnails', 'genpost-thumbnails' ); ?></h3>
 						<p>
-							<?php esc_html_e( 'Version: 1.0.0', 'genpost-thumbnails' ); ?><br>
+							<?php esc_html_e( 'Version: 1.0.1', 'genpost-thumbnails' ); ?><br>
 							<?php esc_html_e( 'License: GPLv2 or later', 'genpost-thumbnails' ); ?><br>
 							<?php esc_html_e( 'AI Engine: Pollinations.ai', 'genpost-thumbnails' ); ?>
 						</p>

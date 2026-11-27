@@ -4,7 +4,7 @@ Donate link: https://patreon.com/MrGhozzi
 Tags: featured image, ai images, thumbnail, post thumbnail, artificial intelligence
 Requires at least: 6.2
 Tested up to: 7.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -74,6 +74,9 @@ Yes. You can revoke consent or disable the service at any time in **Settings -> 
 
 == Changelog ==
 
+= 1.0.1 =
+* Tested up to WordPress 7.2.
+
 = 1.0.0 =
 * Initial release.
 * Added Pollinations.ai integration with full opt-in compliance.
@@ -85,6 +88,9 @@ Yes. You can revoke consent or disable the service at any time in **Settings -> 
 * Added full internationalization (i18n) support.
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+Confirmed compatibility with WordPress 7.2.
 
 = 1.0.0 =
 Initial release of GenPost Thumbnails. Install and opt in to begin generating smart featured images.
